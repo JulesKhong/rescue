@@ -1,0 +1,30 @@
+.column {
+  width: 25%;
+  float:left;
+  padding: 10px;
+  margin-bottom: 0;
+
+}
+
+.column h2 {
+  color:#0000b3;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+img {
+  width: 100%;
+
+}
+
+h1 {
+  color:#0000b3;
+  font-family: cursive;
+  font-size: 40px;
+}
+
+h2 {
+  color:#0000b3;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
